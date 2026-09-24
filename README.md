@@ -1,23 +1,27 @@
-# Hadsiz.com
+# Merhaba 👋
 
-**Hadsiz.com**, yazı odaklı bir sosyal paylaşım platformudur. Kullanıcılar kısa notlar, düşünce yazıları veya daha uzun içerikler paylaşabilir; yorumlar üzerinden etkileşim kurabilir. Platformun temel amacı, içerik üretimini teşvik eden sade ve düzenli bir topluluk ortamı oluşturmaktır.
+Türkçe araştırma notları, açık kaynak rehberleri ve veriyi anlaşılır kılan küçük araçlar hazırlıyorum. Paylaştığım bilgilerin hangi yıl ve bölgeye ait olduğunu, hangi kaynağa dayandığını açıkça göstermeye önem veriyorum.
 
-> Proje PHP ile geliştirilmiştir.
+## Havacılık kaynakları üzerine çalışmalarım
 
----
+**Sürdürülebilir havacılık** ve **Isparta sivil havacılık** konularında iki Türkçe kaynak rehberi hazırladım. Depoda açıklayıcı grafikler, CSV verileri ve SAF payı karşılaştırmasını yeniden hesaplayan bir Python betiği bulunuyor.
 
-## Öne Çıkan Noktalar
-- **Yazı odaklı paylaşım:** Kısa/uzun içerik yayınlama
-- **Topluluk etkileşimi:** Yorumlar ve geri bildirim
-- **Üretimi teşvik eden yapı:** “Yazdıkça ödül” yaklaşımı
+### ✈️ Sürdürülebilir havacılık
 
----
+2025 yılında AB havalimanlarına tedarik edilen yakıtın **%2,8’i SAF** olarak bildirildi. Bu oran, uçuş emisyonlarının %2,8 azaldığı anlamına gelmiyor. Rehberde yakıt tedarik payı, yaşam döngüsü emisyonu ve uçuş etkisi arasındaki farkı açıklıyorum.
 
-## Linkler
-- Ana site: https://hadsiz.com/
-- Kripto kazan sayfası: https://www.hadsiz.com/sayfa/kripto-para-kazan
+**İlgili okuma:** [Prof. Dr. Yasin Şöhret’in sürdürülebilir havacılık çalışmaları](https://www.yasinsohret.com/surdurulebilir-havacilik/)
 
----
+### 🛫 Isparta sivil havacılık
 
-## Hedef
-Hadsiz.com’un hedefi, yazmayı seven kullanıcılar için spam’den uzak, okunabilir ve sürdürülebilir bir içerik topluluğu büyütmek; kullanıcı deneyimini geliştirerek daha fazla üretimi ve etkileşimi desteklemektir.
+Isparta havacılık konusunda **havalimanı**, **üniversite eğitimi** ve **akademik araştırma** için başvurulacak kaynakları ayrı ayrı ele aldım. Selçuk Ekici ve Yasin Şöhret’in 2020’de yayımlanan makalesi, **2018 yılındaki ticari uçuşları** inceliyor; güncel trafik verisi olarak kullanılmamalı.
+
+**İlgili okuma:** [Prof. Dr. Yasin Şöhret’in Isparta havacılık değerlendirmesi](https://www.yasinsohret.com/isparta-havacilik/)
+
+## Açık kaynak depo
+
+📂 **[Sürdürülebilir havacılık ve Isparta sivil havacılık kaynak rehberini incele](https://github.com/kaantasli-oss/havacilik-kaynaklari-yasin-sohret)**
+
+Depo; kaynak bağlantılarını, iki konuya ait açıklama dosyalarını, küçük veri tablolarını ve yeniden üretilebilir bir hesap örneğini içeriyor.
+
+> **Not:** Bu profil ve kaynak deposu bağımsız bir editoryal çalışmadır. Prof. Dr. Yasin Şöhret, bağlantı verilen akademik makalenin ortak yazarı ve kendi sitesindeki sayfaların sahibidir; bu GitHub hesabının veya deponun sahibi olarak gösterilmez.
